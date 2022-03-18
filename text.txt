@@ -1,0 +1,136 @@
+#############################################
+#Item DATAs
+
+#1-item ID
+#2-on Hand
+#3-scheduled Receipt Amount
+#4-scheduled Receipt Period
+#5-lead Time
+#6-lot Size //if lotRule == l4l => type 1
+#7-lower Item1's ID & requirement amount
+#7-lower Item2's ID & requirement amount
+#7-lower Item3's ID & requirement amount
+#7-..............  && amount
+#end
+
+#eg (You can use that)
+
+1605
+30
+0
+0
+1
+1
+13122 1
+048 1
+118 1
+062 4
+14127 4
+314 1
+end
+
+13122
+0
+70
+3
+1
+40
+457 1
+062 2
+11495 1
+end
+
+048
+30
+0
+0
+3
+30
+end
+
+118
+0
+50
+2
+2
+1
+end
+
+062
+50
+100
+6
+2
+1
+end
+
+14127
+60
+0
+0
+1
+100
+end
+
+314
+0
+50
+5
+1
+50
+2142 1
+019 1
+14127 6
+end
+
+457
+0
+20
+2
+2
+1
+end
+
+11495
+120
+0
+0
+1
+50
+129 1
+1118 1
+end
+
+129
+0
+100
+8
+4
+40
+end
+
+1118
+30
+0
+0
+3
+1
+end
+
+2142
+80
+0
+0
+2
+100
+end
+
+019
+50
+40
+5
+2
+50
+end
+
+#############################################
