@@ -6,7 +6,10 @@ Consider the product structure that belongs to a snow shovel. The demand and the
 ![image](https://user-images.githubusercontent.com/53413144/158965634-10996354-6d39-4559-956c-bb28c44df827.png)
 
 Outputs:
-[output.pdf](https://github.com/bl4cktrum/Material-Requirements-Planning/files/8302904/output.pdf)
+![output_1](https://user-images.githubusercontent.com/53413144/158966400-37de0e14-551f-45f9-be1b-d503cb38d531.png)
+![output_2](https://user-images.githubusercontent.com/53413144/158966407-4b1adf4e-3e6a-43b1-836c-d7048edeb171.png)
+
 
 if there is no possible output:
-[If there is no possible output .pdf](https://github.com/bl4cktrum/Material-Requirements-Planning/files/8302914/If.there.is.no.possible.output.pdf)
+![image](https://user-images.githubusercontent.com/53413144/158966467-7b487d7f-7159-4f93-aaff-e622bf94b292.png)
+
