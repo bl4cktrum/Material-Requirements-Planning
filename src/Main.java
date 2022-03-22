@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
         Storehouse storehouse = new Storehouse();
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Please enter the name of text file with extension like \"text.txt\".");
+        System.out.println("Please enter the name of text file with extension like \"SampleUsage.txt\".");
         System.out.println("If the text file is not in the same folder with src folder, enter full path please.");
         String filename = scanner.nextLine();
         System.out.println("For how many weeks do you want the logs? Warning! Can not enter a number fewer than demanded weeks.");
