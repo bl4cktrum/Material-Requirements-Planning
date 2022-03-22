@@ -1,6 +1,11 @@
 # Material-Requirements-Planning
 This program takes bill of material and the gross requirements of the end item along with the stock, scheduled receipt, arrival on week, lead time and lot sizing rule information of the subcomponents and create MRP records for all parts and components of the snow shovel. 
 
+Usage:
+```
+This program takes inputs from a text file.
+Sample usage is shown in the SampleUsage.txt
+```
 
 Consider the product structure that belongs to a snow shovel. The demand and the inventory data provided below:
 ![image](https://user-images.githubusercontent.com/53413144/158965634-10996354-6d39-4559-956c-bb28c44df827.png)
