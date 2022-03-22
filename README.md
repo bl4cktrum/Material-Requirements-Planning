@@ -5,6 +5,7 @@ Usage:
 ```
 This program takes inputs from a text file.
 Sample usage is shown in the SampleUsage.txt
+When you run the program, it will ask you for the input file and how many weeks you want the logs.
 ```
 
 Consider the product structure that belongs to a snow shovel. The demand and the inventory data provided below:
